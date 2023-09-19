@@ -1,5 +1,5 @@
 <h1>Hi, I'm <a href="#">Sachin</a> great to see you here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-Hey there! I'm a passionate and experienced Full Stack Developer, specializing in WordPress development, with a knack for creating dynamic and interactive web applications. As a freelancer, I'm always up for new and exciting projects, ready to bring innovative ideas to life.
+Hey there! I'm a passionate web development and machine learning. I have worked on several freelancing and internship projects that involve ML, deep learning, Image processing and deployment into apps and web servers. I am proficient in Python, HTML, CSS, Tailwind CSS, Figma, JavaScript, Android Studio, and have experience with frameworks such as React JS, Flutter, and MERN. I have also used Firebase, open AI, Google Dialogflow, AI and chatbot for backend.
 
 ## 🌐 Socials:
 
@@ -18,7 +18,7 @@ Hey there! I'm a passionate and experienced Full Stack Developer, specializing i
 
 [![](https://gtce.itsvg.in/api?username=imSachin_010)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-<a href="https://quine.sh/profile/imsachin010"><img src="https://stats.quine.sh/imsachin010/verified-languages" alt="SACHIN MISHRA's language experiences" width="340px"></a>
-<a href="https://quine.sh/profile/imsachin010"><img src="https://stats.quine.sh/imsachin010/github" alt="imsachin010's GitHub stats" width="340px"></a>
+<a href="https://quine.sh/profile/imsachin010"><img src="https://stats.quine.sh/imsachin010/verified-languages" alt="SACHIN MISHRA's language experiences" width="350px"></a>
+<a href="https://quine.sh/profile/imsachin010"><img src="https://stats.quine.sh/imsachin010/github" alt="imsachin010's GitHub stats" width="350px"></a>
 [![An image of @imsachin010's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/imsachin010)](https://holopin.io/@imsachin010)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
