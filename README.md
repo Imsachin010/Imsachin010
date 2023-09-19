@@ -1,3 +1,24 @@
 <a href="https://quine.sh/profile/imsachin010"><img src="https://stats.quine.sh/imsachin010/verified-languages" alt="SACHIN MISHRA's language experiences" width="840px"></a>
 <a href="https://quine.sh/profile/imsachin010"><img src="https://stats.quine.sh/imsachin010/github" alt="imsachin010's GitHub stats" width="840px"></a>
 [![An image of @imsachin010's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/imsachin010)](https://holopin.io/@imsachin010)
+<h1>Hi, I'm <a href="#">Sachin</a> great to see you here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+Hey there! I'm a passionate and experienced Full Stack Developer, specializing in WordPress development, with a knack for creating dynamic and interactive web applications. As a freelancer, I'm always up for new and exciting projects, ready to bring innovative ideas to life.
+
+## 🌐 Socials:
+
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Imgroot1972) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/being_.honest_.) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sachinmishra010) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@haiderpatanwala) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/imSachin_010)
+
+# 💻 Tech Stack:
+
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=flat&logo=fastify&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=flat&logo=android&logoColor=%a4c639) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=flat&logo=strapi&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
+
+![](https://github-readme-stats.vercel.app/api?username=Imsachin010&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Imsachin010&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Imsachin010&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+## 🐦 Latest Tweet
+
+[![](https://gtce.itsvg.in/api?username=imSachin_010)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
