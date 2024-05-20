@@ -1,5 +1,5 @@
 <h1>Hey there!, I'm <a href="#">Sachin</a> great to see you here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-I'm a passionate MEAN Stack Web developer and machine learning enthusiast. My journey includes various freelancing and internship projects involving ML, deep learning, image processing, and deploying solutions into apps and web servers. Proficient in Python, HTML, CSS, Tailwind CSS, Figma, JavaScript, and Android Studio, I've delved into frameworks like React JS, Flutter, and MERN. Additionally, I have experience utilizing Firebase, OpenAI, Google Dialogflow, AI, and chatbots for backend functionality. Let's code the future! 🚀
+I'm a passionate MERN Stack Web developer and machine learning enthusiast. My journey includes various freelancing and internship projects involving ML, deep learning, image processing, and deploying solutions into apps and web servers. Proficient in Python, HTML, CSS, Tailwind CSS, Figma, JavaScript, and Android Studio, I've delved into frameworks like React JS, Flutter, and MERN. Additionally, I have experience utilizing Firebase, OpenAI, Google Dialogflow, AI, and chatbots for backend functionality. Let's code the future! 🚀
 
 ## 🌐 Socials:
 
