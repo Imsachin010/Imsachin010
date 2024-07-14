@@ -11,7 +11,6 @@ I'm a passionate MERN Stack Web developer and machine learning enthusiast. My jo
 
 ![](https://github-readme-stats.vercel.app/api?username=Imsachin010&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/> 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Imsachin010&theme=nightowl&hide_border=false)<br/> 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Imsachin010&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 ## 🐦 Latest Tweet
