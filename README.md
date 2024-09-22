@@ -25,6 +25,10 @@ I'm a passionate MERN Stack Web developer and machine learning enthusiast. My jo
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) 
 ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=flat&logo=android&logoColor=%a4c639) 
 
+## 📚 Publications!
+#### [IoT ML Driven Holistic Health Monitoring and Fitness Assessment Empowering Proactive Wellbeing Management](https://ieeexplore.ieee.org/abstract/document/10652387)
+#### [UDR Fused Multimodal Approach for Disease Classification in Large-scale Dataset with Advanced CNNs](https://link.springer.com/book/9783031664090#affiliations)
+
 ##  ⚡ Github Stats!
 
 ![](https://github-readme-stats.vercel.app/api?username=Imsachin010&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/> 
@@ -32,15 +36,19 @@ I'm a passionate MERN Stack Web developer and machine learning enthusiast. My jo
 ## 🔥 Github Streaks! 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Imsachin010&theme=nightowl&hide_border=false)<br/> 
 
-## 📊 Top Languages
+## 📊 Top Languages!
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Imsachin010&theme=nightowl&hide_border=false)
 
-## 🐦 Latest Tweet
+## 🐦 Latest Tweets!
 
-[![](https://gtce.itsvg.in/api?username=imSachin_010&theme=nightowl&hide_border=false)]
+![](https://gtce.itsvg.in/api?username=imSachin_010&theme=nightowl&hide_border=false)
 
+## 💬 Fun Fact!
 
+"In my spare time, I used to solve Rubik's Cube!"
+
+---
 <a href="https://quine.sh/profile/imsachin010"><img src="https://stats.quine.sh/imsachin010/verified-languages" alt="SACHIN MISHRA's language experiences" width="350px"></a>
 <a href="https://quine.sh/profile/imsachin010"><img src="https://stats.quine.sh/imsachin010/github" alt="imsachin010's GitHub stats" width="350px"></a>
 [![An image of @imsachin010's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/imsachin010)](https://holopin.io/@imsachin010)
