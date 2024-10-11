@@ -27,7 +27,7 @@ I'm a passionate MERN Stack Web developer and machine learning enthusiast. My jo
 
 ## 📚 Publications!
 #### [IoT ML Driven Holistic Health Monitoring and Fitness Assessment Empowering Proactive Wellbeing Management](https://ieeexplore.ieee.org/abstract/document/10652387)
-#### [UDR Fused Multimodal Approach for Disease Classification in Large-scale Dataset with Advanced CNNs](https://link.springer.com/book/9783031664090#affiliations)
+#### [UDR Fused Multimodal Approach for Disease Classification in Large-scale Dataset with Advanced CNNs](https://link.springer.com/chapter/10.1007/978-3-031-66410-6_25)
 
 ##  ⚡ Github Stats!
 
