@@ -36,7 +36,7 @@ My journey includes various freelancing and internship projects involving ML, de
 #### [IoT ML Driven Holistic Health Monitoring and Fitness Assessment Empowering Proactive Wellbeing Management](https://ieeexplore.ieee.org/abstract/document/10652387)
 #### [UDR Fused Multimodal Approach for Disease Classification in Large-scale Dataset with Advanced CNNs](https://link.springer.com/chapter/10.1007/978-3-031-66410-6_25)
 #### [TransDFD: A Deepfake Detection System of Mesoscopic level Deepfake-guard-AI](https://ieeexplore.ieee.org/abstract/document/10984648)
-#### [Automated Detection and Classification of Medicinal Plant Leaf Diseases using CNNs](Dynamic Query Handling with RAG Fusion for PDF-Based Knowledge Retrieval Systems)
+#### [Automated Detection and Classification of Medicinal Plant Leaf Diseases using CNNs](https://ieeexplore.ieee.org/abstract/document/10956946)
 
 ##  ⚡ Github Stats!
 
@@ -49,15 +49,9 @@ My journey includes various freelancing and internship projects involving ML, de
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Imsachin010&theme=nightowl&hide_border=false)
 
-## 🐦 Latest Tweets!
-
-![](https://gtce.itsvg.in/api?username=imSachin_010&theme=nightowl&hide_border=false)
-
 ## 💬 Fun Fact!
 
 "In my spare time, I used to solve Rubik's Cube!"
 
 ---
-<a href="https://quine.sh/profile/imsachin010"><img src="https://stats.quine.sh/imsachin010/verified-languages" alt="SACHIN MISHRA's language experiences" width="350px"></a>
-<a href="https://quine.sh/profile/imsachin010"><img src="https://stats.quine.sh/imsachin010/github" alt="imsachin010's GitHub stats" width="350px"></a>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
