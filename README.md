@@ -1,8 +1,8 @@
 <h1>Hey there!, I'm <a href="#">Sachin</a> great to see you here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
-I am an **MS by Research student at IIITB** and an **IndiaAI Fellow**. My current work is focused on the intersection of **Diffusion Models** and **Multi-Objective Optimization**, aiming for contributions to top-tier AI conferences like AAAI, TMLR, and ICML. 
+I am an **MS by Research student at IIITB** and an **IndiaAI Fellow**. My current work is focused on the intersection of **Diffusion Models** and **Multi-Objective Optimization**, aiming for contributions to top-tier AI conferences. 
 
-I'm a passionate MERN Stack Web developer and machine learning enthusiast. My journey includes various freelancing and internship projects involving ML, deep learning, image processing, and deploying solutions into apps and web servers. Proficient in Python, HTML, CSS, Tailwind CSS, Figma, JavaScript, and Android Studio, I've delved into frameworks like React JS, Flutter, and MERN. Additionally, I have experience utilizing Firebase, OpenAI, Google Dialogflow, AI, and chatbots for backend functionality. Let's code the future! 🚀
+My journey includes various freelancing and internship projects involving ML, deep learning, image processing, and deploying solutions into apps and web servers.
 
 ## 🔍 Research Interests:
 - **Generative AI:** Advancing Diffusion Models through optimization.
@@ -32,8 +32,11 @@ I'm a passionate MERN Stack Web developer and machine learning enthusiast. My jo
 ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=flat&logo=android&logoColor=%a4c639) 
 
 ## 📚 Publications!
+#### [Dynamic Query Handling with RAG Fusion for PDF-Based Knowledge Retrieval Systems](https://ieeexplore.ieee.org/abstract/document/11070378)
 #### [IoT ML Driven Holistic Health Monitoring and Fitness Assessment Empowering Proactive Wellbeing Management](https://ieeexplore.ieee.org/abstract/document/10652387)
 #### [UDR Fused Multimodal Approach for Disease Classification in Large-scale Dataset with Advanced CNNs](https://link.springer.com/chapter/10.1007/978-3-031-66410-6_25)
+#### [TransDFD: A Deepfake Detection System of Mesoscopic level Deepfake-guard-AI](https://ieeexplore.ieee.org/abstract/document/10984648)
+#### [Automated Detection and Classification of Medicinal Plant Leaf Diseases using CNNs](Dynamic Query Handling with RAG Fusion for PDF-Based Knowledge Retrieval Systems)
 
 ##  ⚡ Github Stats!
 
@@ -57,5 +60,4 @@ I'm a passionate MERN Stack Web developer and machine learning enthusiast. My jo
 ---
 <a href="https://quine.sh/profile/imsachin010"><img src="https://stats.quine.sh/imsachin010/verified-languages" alt="SACHIN MISHRA's language experiences" width="350px"></a>
 <a href="https://quine.sh/profile/imsachin010"><img src="https://stats.quine.sh/imsachin010/github" alt="imsachin010's GitHub stats" width="350px"></a>
-[![An image of @imsachin010's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/imsachin010)](https://holopin.io/@imsachin010)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
